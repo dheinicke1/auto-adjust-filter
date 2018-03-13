@@ -11,7 +11,7 @@ For example, the following plants have been masked by a fiaxed filter and the aa
 
 Initial Filter HSV range: (24, 27, 15) to (48, 255, 255)
 
-![alt text](https://github.com/dheinicke1/auto-adjust-filter/blob/master/files/Filter_example.png}
+![alt text](https://github.com/dheinicke1/auto-adjust-filter/blob/master/files/Filter_example.png)
 
 The adjustable filter changes the common wheat range to (23, 27, 15) to (49, 255, 255)
 
